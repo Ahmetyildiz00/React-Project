@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+  color: rgb(0, 0, 0);
+  background-color: rgba(64, 15, 15, 0.268);
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 2rem;
+}
+h3 {
+  color: white;
+}
+p {
+  margin: 0;
+  padding: 1rem;
+  text-align: justify;
+}
